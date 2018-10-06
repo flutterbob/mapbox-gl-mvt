@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mapboxDemo.iml" filepath="$PROJECT_DIR$/mapboxDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapbox-gl-mvt.iml" filepath="$PROJECT_DIR$/mapbox-gl-mvt.iml" />
     </modules>
   </component>
 </project>

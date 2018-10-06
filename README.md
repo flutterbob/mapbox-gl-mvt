@@ -1,2 +1,2 @@
 # mapbox-gl-mvt
-using mapbox-gl to show mvt
+using mapbox-gl.js to show mvt and mbtiles
